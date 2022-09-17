@@ -12,7 +12,7 @@ this Fortnite bot is fully coded with
 |  language | Status  |
 | ---- | ---- |
 |  Thai   |  Done  |
-|  English  |  Coming soon  |
+|  English  |  Done  |
 |  Japanese  |  Coming soon  |
 |  Chinese   |  Coming soon  |
 |  Korean  |  Coming soon  |

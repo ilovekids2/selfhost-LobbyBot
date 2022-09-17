@@ -1,7 +1,8 @@
 {
     "Account": {
       "Email": "bot@obikan.xyz",
-      "Prefix": "!"
+      "Prefix": "!",
+      "language": "thai"
     },
     "Discord": {
       "Webhook": "",
